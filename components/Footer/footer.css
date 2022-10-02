@@ -1,0 +1,39 @@
+.footerdiv {
+    position: absolute;
+    width: 317px;
+    height: 64px;
+    left: 116px;
+    top: 760px;
+    background: #161619;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.fa-brands {
+    color: #918E9B;
+    font-size: 2.5rem;
+    position: absolute;
+    top: 20%;
+}
+
+.fa-square-twitter {
+    left: 10%;
+}
+
+.fa-square-facebook {
+    left: 27.5%;
+}
+
+.fa-square-instagram {
+    left: 45%;
+}
+
+.fa-linkedin {
+    left: 62.5%;
+}
+
+.fa-square-github {
+    left: 80%;
+}
+
+
+

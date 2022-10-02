@@ -1,0 +1,12 @@
+.profilepicture {
+    position: absolute;
+    width: 317px;
+    height: 317px;
+    left: 116px;
+    top: 44px;
+    background-image: url(https://peterweiser.com/items/pw_profilpic.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -10px;
+    border-radius: 10px 10px 0px 0px;
+}

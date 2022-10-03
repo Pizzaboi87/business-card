@@ -1,4 +1,4 @@
-This project has made for Scrimba's React course.
+This project was made for Scrimba's React course as the first solo project.
 
 ## About Scrimba
 
@@ -9,8 +9,3 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Our courses](https://scrimba.com/allcourses)
 - [The Frontend Career Path](https://scrimba.com/learn/frontend)
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
-#� �b�u�s�i�n�e�s�s�-�c�a�r�d�
-�
-�
